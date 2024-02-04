@@ -273,12 +273,12 @@ footer {
 #pix_container {
     display: flex;
     align-items: center;
-    margin-bottom: 0px; /* Adicione ou ajuste o valor conforme necessário */
+    margin-bottom: 0px; 
 }
 
 #pix_container span {
     margin-left: 5px;
-    margin-right: 10px; /* Adicione ou ajuste o valor conforme necessário */
+    margin-right: 10px;
 }
 
 
@@ -298,5 +298,9 @@ footer {
 }
 
 #footer_contacts h2{
-    text-align: center; /* Centraliza o texto */
+    text-align: center;
+}
+
+#chave {
+    color:#FFF;
 }
