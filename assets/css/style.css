@@ -157,6 +157,7 @@ a {
     align-items: center;
     padding: 20px;
     text-align: center;
+    cursor:pointer;
 }
 
 .instrucoes-item i {
