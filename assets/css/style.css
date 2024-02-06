@@ -182,9 +182,9 @@ footer {
     background-color: var(--color-neutral-10);
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    padding: 0.5rem 0; /* Reduzindo o padding verticalmente */
-    margin-top: 10px; /* Ajuste conforme necessário */
-    gap: 5px; /* Reduzindo o espaçamento entre os elementos do footer */
+    padding: 0.5rem 0;
+    margin-top: 10px;
+    gap: 5px;
 }
 
 
@@ -305,3 +305,15 @@ footer {
 span {
     color:#FFF;
 }
+
+p{
+    font-family: 'Merienda', cursive;
+}
+
+#sobreCalendario{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+

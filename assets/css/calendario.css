@@ -1,0 +1,33 @@
+body{
+    font-family: 'Merienda', cursive;
+}
+
+#sobreCalendario{
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+
+h3{
+    text-align: left;
+    padding-left: 3%;
+}
+
+.gira1,
+.gira2,
+.gira3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.gira1 img,
+.gira2 img,
+.gira3 img {
+    margin-top: 10px;
+    width: 360px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
